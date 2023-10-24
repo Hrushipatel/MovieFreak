@@ -11,5 +11,4 @@ public class MovieFreakApplication {
     public static void main(String[] args) {
         SpringApplication.run(MovieFreakApplication.class, args);
     }
-    saddsa
 }
